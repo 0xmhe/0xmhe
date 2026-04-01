@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left"> xmhe<br><br>- 🔭  Red Teaming<br>- 📚 Pentesting<br>- Bug Hunting<br>- ⚡ Coding</h5>
+<h5 align="left"> xmhe<br><br>- 🐱‍💻 Red Teaming<br>- 🔏 Pentesting<br>- 🐛 Bug Hunting<br>- ⚡ Coding</h5>
 
 ###
 

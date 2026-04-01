@@ -8,6 +8,9 @@
   <a href="https://x.com/mhm_ea" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" height="25" alt="X logo"  />
   </a>
+  <a href="https://app.hackthebox.com/users/772406" target="_blank">
+    <img src="https://cdn.brandfetch.io/id-M19oKfL/w/820/h/146/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1771578361244" height="25" alt="hackthebox logo"  />
+  </a>
 </div>
 
 ###

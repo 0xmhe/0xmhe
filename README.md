@@ -6,10 +6,13 @@
 
 <div align="center">
   <a href="https://x.com/mhm_ea" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" height="25" alt="X logo"  />
+    <img src="https://cdn.brandfetch.io/idS5WhqBbM/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768324401335" height="25" alt="X logo"  />
   </a>
   <a href="https://app.hackthebox.com/users/772406" target="_blank">
     <img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1771578361329" height="25" alt="hackthebox logo"  />
+  </a>
+  <a href="https://hackerone.com/xmhe?type=user" target="_blank">
+    <img src="https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668799934110" height="25" alt="hackerone logo"  />
   </a>
 </div>
 
